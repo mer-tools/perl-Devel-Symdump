@@ -1,0 +1,8 @@
+* Wed Jun 30 2010 Quanxian Wang <quanxian.wang@intel.com> - 2.08
+- Add %doc before man file entry
+
+* Fri Mar 26 2010 Anas Nashif <anas.nashif@intel.com> - 2.08
+- Remove Epoch
+
+* Wed Feb 25 2009 Zhang, Qiang Z <qiang.z.zhang@intel.com> - 2.08
+- Update to 2.08
