@@ -1,3 +1,0 @@
-Benchmark: timing 50 iterations of 1 (tchrist), 2 (andreas)...
-1 (tchrist): 35 secs (32.99 usr  0.22 sys = 33.21 cpu)
-2 (andreas): 24 secs (22.90 usr  0.32 sys = 23.22 cpu)
